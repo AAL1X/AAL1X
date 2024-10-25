@@ -15,7 +15,7 @@
 </p>        
 
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35><b> Skills</b>
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35><b> About me</b>
 - 🎓 Computer Science student at the UPC.
 - 💻 Developing a labor application management system.
 - 🛠️ Learning Java and Spring for backend development.
