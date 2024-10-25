@@ -2,6 +2,10 @@
 <h1 align="center">Hi there, I'm <a href="https://aristi.dev">AAL1X</a> 👋</h1>
 </div>
 
+<div align="center">
+<img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif">
+</div>
+
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
