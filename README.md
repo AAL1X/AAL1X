@@ -1,3 +1,4 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center"><h1 align="center">Hi there, I'm <a href="https://github.com/AAL1X">AAL1X </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></div>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
@@ -63,7 +64,7 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 <br>
 
 <p align="center">
@@ -71,7 +72,7 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=dark&show_icons=true&count_private=true"/>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AAL1X streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AAL1X&theme=dark&hide_border=false" /> 
 </td>
@@ -84,3 +85,4 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 </tr>
 </table>
 </p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
