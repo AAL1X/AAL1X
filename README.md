@@ -26,6 +26,8 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+<img align="right" width=415px alt="Unicorn" src="https://i.pinimg.com/originals/33/49/d2/3349d28d8e312b6bf14deafef7aeac19.gif"/>
+
 #### Programming Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
