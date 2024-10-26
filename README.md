@@ -83,7 +83,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   
 </tr>
@@ -91,8 +91,9 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 </p>
 
 <br>
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
 <br>
