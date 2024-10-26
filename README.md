@@ -1,11 +1,19 @@
 <div align="center">
 <h1 align="center">Hi there, I'm <a href="https://github.com/AAL1X">AAL1X </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
-<br>
 
-<div align="center">
-<img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif">
-</div>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+
+<img align="right" width=230px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
+I am a Computer Science student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new and creative.
+- 📚 I’m currently learning ...
+  - React
+  - Angular
+- 🚀 I’m eager to join new projects.
+- ✔ Feel free to ask me anything! I’m motivated to help others.
+- Outside of tech: I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love playing musical instruments.
+- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
 <br>
 
 <p align="center">
@@ -15,13 +23,6 @@
     </a>
 </div>
 </p>        
-<br>
-
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35><b> About me</b>
-- 🎓 Computer Science student at the UPC.
-- 💻 Developing a labor application management system.
-- 🛠️ Learning Java and Spring for backend development.
-- 🎯 Goal: Improve my web development skills.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
