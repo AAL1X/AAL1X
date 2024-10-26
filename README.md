@@ -31,7 +31,7 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/33/49/d2/3349d28d8e312b6bf14deafef7aeac19.gif"/>
+<img align="right" width=400px alt="Unicorn" src="https://media.tenor.com/miSy_kRgrVsAAAAM/dedsec.gif"/>
 
 #### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
