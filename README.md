@@ -92,6 +92,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 </table>
 </p>
 
+<br>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
 </div>
