@@ -84,4 +84,10 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 </tr>
 </table>
 </p>
+
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+</div>
+<br>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
