@@ -26,8 +26,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 
 <p align="center">
-  <a href="https://medium.com/@themlphdstudent"><img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
   <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </p>
