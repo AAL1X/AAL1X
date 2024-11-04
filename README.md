@@ -16,15 +16,14 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
 <br>
 
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<!-- Profile Trophies -->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
-</div>
-</p>        
-<br>
+</div>     
 
+<!-- Social Links -->
 <div align="center">
   <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
@@ -33,6 +32,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
   <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
   <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
+
+<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -82,6 +83,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <table>
   <tr>
     <td width="50%">
@@ -102,28 +104,26 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 </table>
 <br>
 
+<!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
 <p align="center">
 <table align="center">
-<tr border="none">
+<tr>
 <td width="50%" align="center">
-  
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=nightowl&show_icons=true&count_private=true"/>
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AAL1X streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AAL1X&theme=nightowl&hide_border=false" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAL1X&theme=nightowl&hide_border=false" alt="AAL1X streak" />
 </td>
-
 <td width="50%" align="center">
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-  
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
 </tr>
 </table>
 </p>
+<br>
 
+<!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
